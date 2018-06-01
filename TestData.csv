@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+France,44,72000,No
+Italy,27,48000,Yes
+Norway,30,54000,No
+Italy,38,61000,No
+Norway,40,,Yes
+France,35,58000,Yes
+Italy,,52000,No
+France,48,79000,Yes
+Norway,50,83000,No
+France,37,67000,Yes
